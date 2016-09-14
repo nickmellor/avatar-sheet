@@ -1,9 +1,13 @@
+Avatar Sheet Builder
+====================
+
 Rough-around-the-edges app for generating avatar sheets
-Stores avatar sheets int he 'images' file which is also used
+
+Stores avatar sheets in the 'images' folder which is also used
 for intermediate images
 
 For individuals
-===============
+---------------
 
 python avatar.py username
 
@@ -13,7 +17,7 @@ python avatar.py nickmellor
 
 
 For organisations
-=================
+-----------------
 
 python avatars.py org_name
 
