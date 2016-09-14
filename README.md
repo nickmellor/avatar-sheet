@@ -1,4 +1,6 @@
-
+Rough-around-the-edges app for generating avatar sheets
+Stores avatar sheets int he 'images' file which is also used
+for intermediate images
 
 For individuals
 ===============
